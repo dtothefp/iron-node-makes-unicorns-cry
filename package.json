@@ -1,0 +1,19 @@
+{
+  "name": "iron-node-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "iron-node `which gulp`",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.3.0",
+    "babel-preset-es2017": "^6.14.0",
+    "babel-register": "^6.14.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.2.2"
+  }
+}

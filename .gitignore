@@ -1,0 +1,13 @@
+#DUHH
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled
+dist
+
+# Dependency directory
+node_modules
